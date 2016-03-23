@@ -12,7 +12,13 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity  {
+  /*  private static final int[] COUNTRIES = {
+            R.drawable.uk,
+            R.drawable.australia,
+            R.drawable.brazil,
+            R.drawable.jamaica
 
+    };*/
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
